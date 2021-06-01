@@ -1,0 +1,24 @@
+/* 
+ * File:   Ctgries.h
+ * Author: Morgan Wild
+ * Created on May 31, 2021, 9:43 AM
+ * Purpose: Ctgries class specification
+ */
+
+#ifndef CTGRIES_H
+#define CTGRIES_H
+
+#include "Array.h"
+
+class Ctgries : public Array<short> {
+    private:
+        void newAry(short); //Initialize the Ctgries array
+    public:
+        Ctgries(short s) {
+            newAry(s);
+        }
+        operator short(); //Used in calculating the user's final score. It iterates through each category and
+        //returns the sum of the scores from each category
+};
+
+#endif /* CTGRIES_H */
