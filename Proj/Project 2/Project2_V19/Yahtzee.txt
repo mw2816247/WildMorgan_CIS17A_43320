@@ -1,0 +1,495 @@
+
+--------------------
+Game 1 Results
+Final Results
+--------------------
+--------------------
+Penny
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   2                   3                   0                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+18                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 41
+Bonus points: 0--------------------
+Jack
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   0                   8                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+22                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+25                  0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 74
+Bonus points: 0--------------------
+Bill
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   0                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   23                  
+--------------------
+Score: 35
+Bonus points: 0--------------------
+Ruby
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   9                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   25                  
+--------------------
+Score: 34
+Bonus points: 0--------------------
+Dog
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+1                   0                   0                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   17                  
+--------------------
+Score: 18
+Bonus points: 0--------------------
+Doge
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   8                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   30                  0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 62
+Bonus points: 0
+--------------------
+1st Place: Jack
+2nd Place: Doge
+3rd Place: Penny
+4th Place: Bill
+5th Place: Ruby
+6th Place: Dog
+Final Results
+--------------------
+--------------------
+Penny
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   2                   3                   0                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+18                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 41
+Bonus points: 0--------------------
+Jack
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   0                   8                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+22                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+25                  0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 74
+Bonus points: 0--------------------
+Bill
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   0                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   23                  
+--------------------
+Score: 35
+Bonus points: 0--------------------
+Ruby
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   9                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   25                  
+--------------------
+Score: 34
+Bonus points: 0--------------------
+Dog
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+1                   0                   0                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   17                  
+--------------------
+Score: 18
+Bonus points: 0--------------------
+Doge
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   8                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   30                  0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 62
+Bonus points: 0
+--------------------
+1st Place: Jack
+2nd Place: Doge
+3rd Place: Penny
+4th Place: Bill
+5th Place: Ruby
+6th Place: Dog
+Final Results
+--------------------
+--------------------
+Penny
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   2                   3                   0                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+18                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 41
+Bonus points: 0--------------------
+Jack
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   0                   8                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+22                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+25                  0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 74
+Bonus points: 0--------------------
+Bill
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   0                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   23                  
+--------------------
+Score: 35
+Bonus points: 0--------------------
+Ruby
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   9                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   25                  
+--------------------
+Score: 34
+Bonus points: 0--------------------
+Dog
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+1                   0                   0                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   17                  
+--------------------
+Score: 18
+Bonus points: 0--------------------
+Doge
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   8                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   30                  0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 62
+Bonus points: 0
+--------------------
+1st Place: Jack
+2nd Place: Doge
+3rd Place: Penny
+4th Place: Bill
+5th Place: Ruby
+6th Place: Dog
+Final Results
+--------------------
+--------------------
+Penny
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   2                   3                   0                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+18                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 41
+Bonus points: 0--------------------
+Jack
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   0                   8                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+22                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+25                  0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 74
+Bonus points: 0--------------------
+Bill
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   0                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   23                  
+--------------------
+Score: 35
+Bonus points: 0--------------------
+Ruby
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   9                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   25                  
+--------------------
+Score: 34
+Bonus points: 0--------------------
+Dog
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+1                   0                   0                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   17                  
+--------------------
+Score: 18
+Bonus points: 0--------------------
+Doge
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   8                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   30                  0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 62
+Bonus points: 0
+--------------------
+1st Place: Jack
+2nd Place: Doge
+3rd Place: Penny
+4th Place: Bill
+5th Place: Ruby
+6th Place: Dog
+Final Results
+--------------------
+--------------------
+Penny
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   2                   3                   0                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+18                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 41
+Bonus points: 0--------------------
+Jack
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   0                   8                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+22                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+25                  0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 74
+Bonus points: 0--------------------
+Bill
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   0                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   23                  
+--------------------
+Score: 35
+Bonus points: 0--------------------
+Ruby
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   9                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   25                  
+--------------------
+Score: 34
+Bonus points: 0--------------------
+Dog
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+1                   0                   0                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   17                  
+--------------------
+Score: 18
+Bonus points: 0--------------------
+Doge
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   8                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   30                  0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 62
+Bonus points: 0
+--------------------
+1st Place: Jack
+2nd Place: Doge
+3rd Place: Penny
+4th Place: Bill
+5th Place: Ruby
+6th Place: Dog
+Final Results
+--------------------
+--------------------
+Penny
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   2                   3                   0                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+18                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 41
+Bonus points: 0--------------------
+Jack
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   0                   8                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+22                  0                   
+9. Full house       10. SM Straight     11. LG Straight     
+25                  0                   0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 74
+Bonus points: 0--------------------
+Bill
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   0                   0                   6                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   23                  
+--------------------
+Score: 35
+Bonus points: 0--------------------
+Ruby
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   9                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   25                  
+--------------------
+Score: 34
+Bonus points: 0--------------------
+Dog
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+1                   0                   0                   0                   0                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   0                   0                   
+12. Yahtzee         13. Chance          
+0                   17                  
+--------------------
+Score: 18
+Bonus points: 0--------------------
+Doge
+1. Aces             2. Twos             3. Threes           4. Fours            5. Fives            6. Sixes            
+0                   0                   6                   8                   5                   0                   
+7. 3 of a kind      8. 4 of a kind      
+0                   0                   
+9. Full house       10. SM Straight     11. LG Straight     
+0                   30                  0                   
+12. Yahtzee         13. Chance          
+0                   13                  
+--------------------
+Score: 62
+Bonus points: 0
+--------------------
+1st Place: Jack
+2nd Place: Doge
+3rd Place: Penny
+4th Place: Bill
+5th Place: Ruby
+6th Place: Dog
